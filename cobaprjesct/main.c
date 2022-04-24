@@ -9,7 +9,7 @@ float sisi, luas, r, L, t, p, volume, ta, tp, k ;
 
     start:
     printf("=== PROGRAM MENGHITUNG LUAS DAN VOLUME ===\n");
-    printf("\n1. Menghitung Luas Kubus\n");
+    printf("\n1. Menghitung Luas persegi\n");
     printf("2. Menghitung Luas Bola\n");
     printf("3. Menghitung Luas Prisma\n");
     printf("4. Menghitung Luas Limas\n");
